@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="testUID">
+        <field name="title"><![CDATA[{{page.title}}]]></field>
+        <field name="subline"><![CDATA[{{page.subline}}]]></field>
+        <field name="layout"><![CDATA[{{page.layout}}]]></field>
+        <field name="categories"><![CDATA[{{page.categories}}]]></field>
+        <field name="tags"><![CDATA[{{page.tags}}]]></field>
+        <field name="date_date"><![CDATA[{{page.date}}]]></field>
+        <field name="change_date"><![CDATA[{{page.modified_date}}]]></field>
+        <field name="author_first_name"><![CDATA[{{site.data.authors[page.author].first_name}}]]></field>
+        <field name="author_last_name"><![CDATA[{{site.data.authors[page.author].last_name}}]]></field>
+        <field name="language_multi_keyword"><![CDATA[{{de}}]]></field>
+        <field name="teaser"><![CDATA[{{page.teaser}}]]></field>
+        <field name="content"><![CDATA[{{content}}]]></field>
+    </document>
+</documents>
