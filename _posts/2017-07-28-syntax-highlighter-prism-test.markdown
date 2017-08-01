@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Testing prismjs Syntax-Highlighter"
-date:   2017-07-28 10:01:43 +0530
-categories: prismjs
-tags: [syntax highlighter]
+date:   2017-07-28 10:01:43
+modified_date: 2017-07-31
+categories: [prismjs, blog tools]
+tags: [syntax highlighter, css]
+author: shahin
 ---
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
 ## This shows an example of using prismjs syntax highlighter
 
 ### Default

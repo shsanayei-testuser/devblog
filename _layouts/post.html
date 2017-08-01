@@ -1,19 +1,12 @@
 ---
 layout: xml-default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="jumbotron">
-    <div class="container">
-      <h1 class="post-title-main" itemprop="name headline">{{ page.title }}</h1>
-      <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-      
-    </div>
-
+<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+{{ content }}
 </div>
-  <div id="adesso-content" class="container" itemprop="articleBody">
-  	<div class="adesso-text-formate">
-    {{ content }}
-    </div>
-  </div>
-
-</article>
+</div>
+</div>
+</div>

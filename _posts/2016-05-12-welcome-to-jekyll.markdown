@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is first post!"
-date:   2016-05-12 22:01:43 +0530
+date:   2016-05-12 22:01:43
 categories: jekyll update
 author: "Hemang"
 ---
