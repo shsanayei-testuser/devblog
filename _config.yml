@@ -11,7 +11,7 @@ email:
 description: "adesso sorgt als unabhängiger IT-Dienstleister durch Beratung und Softwareentwicklung für den Erfolg Ihrer Projekte und die Zukunftssicherheit Ihrer Anwendungen."
 
 # Outputtig
-permalink: blog-posts/:year-:month-:day/:title.xml
+permalink: blog-posts/:year-:month-:day/:title.html
 paginate: 3 # amount of posts to show
 
 # Serving
