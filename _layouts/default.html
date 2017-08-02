@@ -10,12 +10,12 @@
         <field name="content_type_multi_keyword"><![CDATA[{{ site.data.xmlconfig['constants'].content_type_multi_keyword }}]]></field>
         <field name="mime_type_multi_keyword"><![CDATA[{{ site.data.xmlconfig['constants'].mime_type_multi_keyword }}]]></field>
         {% if page.categories %}
-            {%- for category in page.categories -%}
+            {% for category in page.categories %}
             <field name="category_multi_keyword"><![CDATA[{{ category }}]]></field>
             {%- endfor -%}
         {%- endif -%}
         {% if page.tags %}
-            {%- for tag in page.tags -%}
+            {% for tag in page.tags %}
             <field name="tag_multi_keyword"><![CDATA[{{ tag }}]]></field>
             {%- endfor -%}
         {%- endif -%}
