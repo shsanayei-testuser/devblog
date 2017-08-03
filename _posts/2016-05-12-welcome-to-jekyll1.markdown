@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: [post, post-xml]
 title:  "Basically these are all dummy posts, Really!"
 date:   2016-05-12 22:01:43
 categories: jekyll update
