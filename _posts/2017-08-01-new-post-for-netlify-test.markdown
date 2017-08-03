@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: [post, post-xml]
 title:  "Testing commit history for New Post"
 date:   2017-08-01 
 modified_date: 
@@ -15,7 +15,7 @@ Dies ist ein Test
 
 Hall Welt! Heute ist Donnerstag
 
-Yet another test Hallo
+Yet another test Hallo test HALLO!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
