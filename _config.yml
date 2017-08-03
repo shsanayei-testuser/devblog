@@ -16,7 +16,7 @@ paginate: 3 # amount of posts to show
 
 # Serving
 baseurl: "/devblog" # the subpath of your site, e.g. /blog
-url: "http://shsanayei.github.io" # the base hostname & protocol for your site
+url: "https://shsanayei.github.io" # the base hostname & protocol for your site
 github_username: "adessoAG"
 
 # Build settings
