@@ -9,9 +9,3 @@ categories: tech-blog testing
 ---
 Testing netlify...
 test...Test
-test
-test
-test
-test
-test
-test
