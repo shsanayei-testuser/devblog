@@ -21,7 +21,6 @@ github_username: "adessoAG"
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 kramdown: 
   syntax_highlighter_opts:
     disable : true
@@ -34,8 +33,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-=======
-theme: minima
-plugins_dir:
->>>>>>> master
   - jekyll-feed
