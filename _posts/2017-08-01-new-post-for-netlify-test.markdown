@@ -11,13 +11,4 @@ Testing netlify...
 test...Test
 
 
-Dies ist ein Test
-
-Hall Welt! Heute ist Donnerstag
-
-Yet another test Hallo test HALLO!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
-morgen ist Freitag und damit Wochenende
+Hier ist ein Blogbeitrag.... so zum Test und so
