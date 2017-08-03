@@ -16,3 +16,8 @@ Dies ist ein Test
 Hall Welt! Heute ist Donnerstag
 
 Yet another test Hallo
+
+
+
+
+morgen ist Freitag und damit Wochenende
