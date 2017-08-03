@@ -4,7 +4,7 @@ shahin:
   github_username: shsanayei
   email: shsanayei.gh@gmail.com
   bio: "Google is your friend."
-  picture_url: avatars/shahin.png
+  picture_url: /avatars/shahin.png
   github: https://github.com/shsanayei
 
 david:
@@ -13,5 +13,5 @@ david:
   github_username: daklassen
   email: daviddd.kl@gmail.com
   bio:
-  picture_url: avatars/david.png
+  picture_url: /avatars/david.png
   github: https://github.com/daklassen
