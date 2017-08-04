@@ -4,6 +4,7 @@
         <field name="title"><![CDATA[Testing commit history for New Post]]></field>
         <field name="subline"><![CDATA[]]></field>
         <field name="teaser"><![CDATA[<p>Testing netlify…</p>
+
 ]]></field>
         <field name="language_multi_keyword"><![CDATA[de]]></field>
         <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
@@ -24,8 +25,11 @@
         <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
 <p>Testing netlify…</p>
 
+
 </div>]]></field>
         <field name="content"><![CDATA[<p>Testing netlify…</p>
+
+<p>Schönes Wochenende</p>
 
 ]]></field>
     </document>
