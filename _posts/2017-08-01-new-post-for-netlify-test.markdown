@@ -8,8 +8,3 @@ tags: test commit history
 categories: tech-blog testing
 ---
 Testing netlify...
-test...Test
-fff
-tzzzz
-test
-test
