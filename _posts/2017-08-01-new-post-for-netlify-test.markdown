@@ -10,5 +10,5 @@ categories: tech-blog testing
 Testing netlify...
 
 
-Schönes Wochenende
+Schönes Wochenende und bis Montag
 
