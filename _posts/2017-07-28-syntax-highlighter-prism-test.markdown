@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: [post, post-xml]
 title:  "Testing prismjs Syntax-Highlighter"
 date:   2017-07-28 10:01:43
 modified_date: 2017-07-31
