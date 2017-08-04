@@ -18,4 +18,3 @@ christian
 Heute ist Freitag, morgen ist Samstag!!!!!
 Hallo!!!! :) :) 
 
-Bier her Bier her odr ich fall um
