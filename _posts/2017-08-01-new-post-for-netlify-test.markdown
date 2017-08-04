@@ -9,3 +9,6 @@ categories: tech-blog testing
 ---
 Testing netlify...
 
+
+Schönes Wochenende
+
