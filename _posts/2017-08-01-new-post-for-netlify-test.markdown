@@ -8,13 +8,4 @@ tags: test commit history
 categories: tech-blog testing
 ---
 Testing netlify...
-test
-Christian Everke; cev
-Hallo--!!!
-Test! -- :)
-HALLO!!!!!!!!!!!
-christian 
-
-Heute ist Freitag, morgen ist Samstag!!!!!
-Hallo!!!! :) :) 
 
