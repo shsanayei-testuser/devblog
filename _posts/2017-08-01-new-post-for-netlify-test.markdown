@@ -8,4 +8,3 @@ tags: test commit history
 categories: tech-blog testing
 ---
 Testing netlify...
-Heut ist Freitag, morgen ist Samstag *freu*
