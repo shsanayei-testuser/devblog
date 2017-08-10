@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <documents>
-    <document uid="testUID">
+    <document uid="2ec762d342f42a016f070df0781efd3d">
         <field name="title"><![CDATA[Testing commit history for New Post]]></field>
         <field name="subline"><![CDATA[]]></field>
         <field name="teaser"><![CDATA[<p>Testing commit history…. Changed by Christian for test cases und noch eine Änderung
@@ -30,10 +30,10 @@ fdsfs</p>
         <field name="author_first_name"><![CDATA[Shahin]]></field>
         <field name="author_last_name"><![CDATA[Sanayei]]></field>
         <field name="author_id"><![CDATA[shsanayei]]></field>
-        <field name="author_picture_stored_only"><![CDATA[avatars/shahin.png]]></field>
+        <field name="author_picture_stored_only"><![CDATA[https://ceverke.github.io/devblog]]></field>
         <field name="headlines"><![CDATA[Testing commit history for New Post]]></field>
         <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
-<p>Testing commit history…. Changed by Christian for test cases und noch eine Änderung
+            <p>Testing commit history…. Changed by Christian for test cases und noch eine Änderung
 kk
 hallo und schönes Wochenende!fdsfdsfsdf
 fffdsfa
@@ -45,20 +45,14 @@ sdfsdaf
 afdf ffggdd
 fff
 fdsfs</p>
-
 </div>]]></field>
-        <field name="content"><![CDATA[<p>Testing commit history…. Changed by Christian for test cases und noch eine Änderung
-kk
-hallo und schönes Wochenende!fdsfdsfsdf
-fffdsfa
-hallo!3fffsdfsadfasdfsdfsadfasf
-fggfadf
-fff
-fffdsfa
-sdfsdaf
-afdf ffggdd
-fff
-fdsfs</p>
-]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    
+</div>
+</div>
+</div>]]></field>
     </document>
 </documents>

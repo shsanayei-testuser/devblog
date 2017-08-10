@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <documents>
-    <document uid="testUID">
+    <document uid="3bead15bc7de83d8d05bf6e7ea5cdcef">
         <field name="title"><![CDATA[Testing commit history for New Post]]></field>
         <field name="subline"><![CDATA[]]></field>
         <field name="teaser"><![CDATA[<p>Testing commit history….
@@ -21,18 +21,21 @@ Modifiying…</p>
         <field name="author_first_name"><![CDATA[Shahin]]></field>
         <field name="author_last_name"><![CDATA[Sanayei]]></field>
         <field name="author_id"><![CDATA[shsanayei]]></field>
-        <field name="author_picture_stored_only"><![CDATA[avatars/shahin.png]]></field>
+        <field name="author_picture_stored_only"><![CDATA[https://ceverke.github.io/devblog]]></field>
         <field name="headlines"><![CDATA[Testing commit history for New Post]]></field>
         <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
-<p>Testing commit history….
+            <p>Testing commit history….
 Modifiying…</p>
-
 
 </div>]]></field>
-        <field name="content"><![CDATA[<p>Testing commit history….
-Modifiying…</p>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    <p>Schönes Wochenende - Test</p>
 
-<p>Schönes Wochenende - Test</p>
-]]></field>
+</div>
+</div>
+</div>]]></field>
     </document>
 </documents>
