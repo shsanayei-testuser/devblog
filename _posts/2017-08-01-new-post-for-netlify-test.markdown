@@ -10,5 +10,5 @@ categories: tech-blog testing
 Testing netlify...
 
 
-Heute ist Dienstag
+Heute ist Donnerstag - live demo
 
