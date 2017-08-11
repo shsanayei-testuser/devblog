@@ -20,7 +20,7 @@ permalink: blog-posts/:year-:month-:day/:title.html
 
 # Serving
 baseurl: "/devblog" # the subpath of your site, e.g. /blog
-url: "https://ceverke.github.io" # the base hostname & protocol for your site
+url: "https://shsanayei.github.io" # the base hostname & protocol for your site
 github_username: "adessoAG"
 
 # Build settings
