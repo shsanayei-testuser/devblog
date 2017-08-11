@@ -19,7 +19,7 @@ Modification - Test - have a nice weekend - Bye</p>
         <field name="author_first_name"><![CDATA[Shahin]]></field>
         <field name="author_last_name"><![CDATA[Sanayei]]></field>
         <field name="author_id"><![CDATA[shsanayei]]></field>
-        <field name="author_picture_stored_only"><![CDATA[http://adesso-iotlab-cep01.test-server.ag:4000/assets/images/avatars/shahin.png]]></field>
+        <field name="author_picture_stored_only"><![CDATA[localhost:4000/assets/images/avatars/shahin.png]]></field>
         <field name="headlines"><![CDATA[New Post test]]></field>
         <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
             <p>Testing…
