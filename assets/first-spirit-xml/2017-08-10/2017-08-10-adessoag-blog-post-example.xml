@@ -32,6 +32,8 @@
 
 <p>To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-post.markdown</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
+<p>Dies ist eine Testzeile, um das mit der Vorschau zu testen</p>
+
 </div>
 </div>
 </div>]]></field>
