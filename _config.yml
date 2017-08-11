@@ -20,7 +20,7 @@ permalink: blog-posts/:year-:month-:day/:title.html
 
 # Serving
 baseurl: "" #"/devblog" # the subpath of your site, e.g. /blog
-url: "http://adesso-iotlab-cep01.test-server.ag:4000" # the base hostname & protocol for your site
+url: "0.0.0.0:4000" # the base hostname & protocol for your site
 github_username: "adessoAG"
 
 # Build settings
